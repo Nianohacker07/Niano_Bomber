@@ -9,7 +9,7 @@
 ## ⚙️ How It Works
 
 - Supports **only Pakistani phone numbers**
-- Format: `03XXXXXXXXX` (e.g., `03001234567`)
+- Format: `03XXXXXXXXX`
 - You input the number and how many **times** you want the bombing to occur.
   - **One run = 100+ OTPs**
 - OTP Sources:
