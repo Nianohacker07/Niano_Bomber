@@ -46,7 +46,7 @@ chmod +x bomber.sh
 ## 📲 Input Example
 
 ```text
-Enter the phone number (Format: 03XXXXXXXXX): 03001234567
+Enter the phone number (Format: 03XXXXXXXXX): 03.......... ( Number should be based on 11 digits)
 Enter number of runs (e.g., 1 = ~100 OTPs): 3
 ```
 
