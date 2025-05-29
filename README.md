@@ -67,8 +67,10 @@ Enter number of runs (e.g., 1 = ~100 OTPs): 3
 
 This project is intended for **educational and ethical testing** only. Spamming individuals without consent is **illegal** and punishable by law. The author takes **no responsibility** for any misuse of this tool.
 
----------------------------------------------------------------------------------------------------------------------------
+
 ## 👤 Author
 
 - **Zulqarnain Ahmed**
 - GitHub: [Nianohacker07](https://github.com/Nianohacker07)
+
+---------------------------------------------------------------------------------------------------------------------------
