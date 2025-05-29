@@ -72,5 +72,3 @@ This project is intended for **educational and ethical testing** only. Spamming 
 
 - **Zulqarnain Ahmed**
 - GitHub: [Nianohacker07](https://github.com/Nianohacker07)
-
----------------------------------------------------------------------------------------------------------------------------
