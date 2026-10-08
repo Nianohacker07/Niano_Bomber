@@ -25,7 +25,7 @@
 ### 1. 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Niano_Bomber.git
+https://github.com/Nianohacker07/Niano_Bomber.git
 cd Niano_Bomber
 ```
 
